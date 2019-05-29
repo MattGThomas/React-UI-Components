@@ -1,1 +1,17 @@
 /* All styles for your header Components live here */
+.header {
+    display: flex;
+    /* flex-direction: column; */
+}
+.headerTitle {
+    background: red;
+    /* font-size: 1.4rem; */
+}
+.logo {
+    /* border-radius: 50%; */
+    /* height: 20px; */
+    /* display: block;
+    float: left; */
+    display: flex;
+    justify-content: flex-start;
+}
