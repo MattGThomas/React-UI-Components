@@ -1,1 +1,22 @@
 /* All styles for your Card Components live here */
+.cardContainer {
+    /* max-width: 750px; */
+    /* border: 1px solid lightslategray; */
+}
+.banner {
+    max-width: 640px;
+    margin-left: 20%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.cardContent {
+
+    margin-left: 20%;
+    padding: 10px;
+    /* border: 1px solid black; */
+    width: 620px;
+    margin-top: 0;
+    border-right: 1px solid lightslategray;
+    border-left: 1px solid lightslategray;
+    border-bottom: 1px solid lightslategray;
+}
