@@ -1,5 +1,8 @@
 import React from 'react';
 import './App.css';
+import NumberButton from './components/ButtonComponents/NumberButton';
+import ActionButton from './components/ButtonComponents/ActionButton';
+import Operator from './components/ButtonComponents/OperatorButton';
 import CalculatorDisplay from './components/DisplayComponents/CalculatorDisplay';
 
 const App = () => {
