@@ -1,26 +1,26 @@
 .display {
-    width: 400px;
+    width: 450px;
     height: 500px;
 }
 
 .answerBox {
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: flex-end;
-    width: 400px;
+    width: 450px;
     background: black;
     color: white;
-    height: 100px;
-    font-size: 30px;
+    height: 125px;
+    font-size: 80px;
 }
 
 .sectionOne {
-    width: 100%;
+    /* width: 100%; */
     display: flex;
 }
 
 .sectionTwo {
-    width: 100%;
+    /* width: 100%; */
     display: flex;
 }
 

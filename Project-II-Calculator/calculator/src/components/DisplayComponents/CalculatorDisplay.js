@@ -11,7 +11,7 @@ const CalculatorDisplay = props => {
         <div className='answerBox'>0</div>
         <div className='sectionOne'>
             <ActionButton text='clear' />
-            <OperatorButton text='/' />
+            <OperatorButton text='÷' />
         </div>
         <div className='sectionTwo'>
             <NumberButton text='7' />
