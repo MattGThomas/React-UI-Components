@@ -1,1 +1,29 @@
 /* All styles for your header Components live here */
+.header {
+    display: flex;
+}
+.topHeaderTitle {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.topHeaderTitle h1 {
+    padding-right: 10px;
+}
+.topHeaderTitle p {
+    color: lightgray;
+}
+.headerTitle {
+    vertical-align: bottom;
+    margin-left: 3%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 75px;
+}
+.headerContent {
+    display: flex; 
+}
+.logo {
+
+    border-radius: 100%;
+}

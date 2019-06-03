@@ -1,1 +1,28 @@
 /* All styles for your Card Components live here */
+.cardContainer {
+    text-decoration: none;
+}
+.cardContainer :visited {
+    text-decoration: none
+}
+.banner {
+    max-width: 640px;
+    margin-left: 20%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.cardContent {
+
+    margin-left: 20%;
+    padding: 10px;
+    width: 620px;
+    margin-top: 0;
+    border-right: 1px solid lightslategray;
+    border-left: 1px solid lightslategray;
+    border-bottom: 1px solid lightslategray;
+    color: black;
+}
+
+.reactjs {
+    color: lightgray;
+}

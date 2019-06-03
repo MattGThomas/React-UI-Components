@@ -1,0 +1,19 @@
+.numberButton {
+    width: 112.5px;
+    height: 95px;
+    background:rgb(255,255,255);
+    font-size: 45px;
+}
+.actionButton {
+    width: 337.5px;
+    height: 95px;
+    background: rgb(255,255,255);
+    font-size: 45px;
+}
+.operatorButton {
+    width: 112.5px;
+    height: 95px;
+    background: rgb(147,29,37);
+    color: white;
+    font-size: 60px;
+}

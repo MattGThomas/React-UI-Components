@@ -1,0 +1,37 @@
+.display {
+    width: 450px;
+    height: 500px;
+}
+
+.answerBox {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 450px;
+    background: black;
+    color: white;
+    height: 125px;
+    font-size: 80px;
+}
+
+.sectionOne {
+    /* width: 100%; */
+    display: flex;
+}
+
+.sectionTwo {
+    /* width: 100%; */
+    display: flex;
+}
+
+.sectionThree {
+    display: flex;
+}
+
+.sectionFour {
+    display: flex;
+}
+
+.sectionFive {
+    display: flex;
+}
